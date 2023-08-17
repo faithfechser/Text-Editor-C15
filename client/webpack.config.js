@@ -5,8 +5,6 @@ const { InjectManifest } = require('workbox-webpack-plugin');
 
 // TODO: Add and configure workbox plugins for a service worker and manifest file.
 // TODO: Add CSS loaders and babel to webpack.
-const WorkboxPlugin = require("workbox-webpack-plugin");
-const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 module.exports = () => {
   return {
@@ -39,8 +37,8 @@ module.exports = () => {
         description: "Take your notes w/ this offline JS program",
         background_color: "#225ca3",
         theme_color: "#225ca3",
-        start_url: "/",
-        publicPath: "/",
+        start_url: "./",
+        publicPath: "./",
         icons: [
           {
             src: path.resolve("src/images/logo.png"),
