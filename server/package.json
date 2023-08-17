@@ -1,5 +1,5 @@
 {
-    "name": "JATE",
+    "name": "jate",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
@@ -10,7 +10,9 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.1"
+        "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
+        "express": "^4.17.1",
+        "mini-css-extract-plugin": "^2.7.6"
     },
     "devDependencies": {
         "nodemon": "^2.0.4"
