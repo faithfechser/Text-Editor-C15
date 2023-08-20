@@ -3,7 +3,7 @@
 
 ## Description
 
-Welcome to J.A.T.E! This is an offline text editor that can be installed onto your computer. 
+Welcome to J.A.T.E! This is an offline text editor that can be installed onto your computer. Edit text on the go whenever you need with J.A.T.E!
 
 ## Table of Contents
 - [Usage](#usage)
