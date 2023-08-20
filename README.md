@@ -3,7 +3,7 @@
 
 ## Description
 
-Welcome to J.A.T.E! This is an offline text editor 
+Welcome to J.A.T.E! This is an offline text editor that can be installed onto your computer. 
 
 ## Table of Contents
 - [Usage](#usage)
@@ -15,19 +15,21 @@ Welcome to J.A.T.E! This is an offline text editor
 
 ## Usage
 
-
+This is meant to be a simple offline text editor.
+![Website Home Page](image.png)
+[Heroku](https://shrouded-sea-29075-27f9175162f7.herokuapp.com)
 
 ## Installation
 
-
+Node
 
 ## Credits & Contributions
 
-
+Faith Fechser
 
 ## Tests
 
-
+n/a
 
 ## Questions
 
